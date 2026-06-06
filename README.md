@@ -42,15 +42,15 @@ Data Analyst & BCA undergrad at Amity University Patna. I build analytics tools,
 
 ## Projects
 
-### 🎬 [Movie Oracle](https://github.com/aayush-kumar1418/Movie-Oracle)
+###  [Movie Oracle](https://github.com/aayush-kumar1418/Movie-Oracle)
 Full-stack movie review platform with React 19, TypeScript, Supabase & TMDB API.
 `React 19` `TypeScript` `Supabase` `TMDB API`
 
-### 🚆 [SmartRail](https://github.com/aayush-kumar1418/smartrail-railway)
+###  [SmartRail](https://github.com/aayush-kumar1418/smartrail-railway)
 Railway management app with backend data logic and real-time SQL query filtering.
 `JavaScript` `Node.js` `MySQL`
 
-### 🌱 [Glitch 1.0 — Ecolgnitres](https://github.com/aayush-kumar1418/Glitch-1.0-Ecolgnitres)
+###  [Glitch 1.0 — Ecolgnitres](https://github.com/aayush-kumar1418/Glitch-1.0-Ecolgnitres)
 Environmental intelligence platform built for a hackathon.
 `HTML` `CSS` `JavaScript`
 
