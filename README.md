@@ -64,7 +64,15 @@ A premium coffee-shop web experience — Next.js 15, TypeScript, Tailwind CSS, S
 
 ## Certifications
 
- **Deloitte Data Analytics Certificate** — Deloitte Australia via Forage
+ **Simplilearn** — AI for All Certificate
+
+ **Reliance Foundation** — AI/ML Engineer Certificate
+
+ **Deloitte Australia** — Data Analytics Certificate *(via Forage)*
+
+ **BCG** — Data Science Certificate *(via Forage)*
+
+ **C++ & Oracle DB** — Internship Certificate
 
 ---
 
@@ -75,4 +83,4 @@ Open to remote data analyst roles, backend/full-stack freelance work, and intere
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aayush-kumar-7b7560361)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/aayush-kumar1418)
 
- **sinhaaayushkumar4456@gmail.com**
+📧 **sinhaaayushkumar4456@gmail.com**
